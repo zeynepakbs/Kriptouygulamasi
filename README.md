@@ -1,0 +1,1 @@
+Cryptoapplication is an Android application that provides cryptocurrency prices to the user. The application receives cryptocurrency data using Retrofit and RxJava and displays it to the user with RecyclerView.
